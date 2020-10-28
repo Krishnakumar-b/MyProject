@@ -58,11 +58,13 @@
 		font-size: 60px;
 	}
 	.welcome a{
+		color:#0C090A;
 		border:2px solid #fff;
+		border-radius: 7px;
 		padding: 10px 25px;
 		text-decoration: none;
 		text-transform: uppercase;
-		font-size: 15px;
+		font-size: 18px;
 		margin-top: 20px;
 		display: inline-block;
 	}
